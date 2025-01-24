@@ -4,7 +4,7 @@
 
 ## 💻Programming
 
-- Languages: Python, PHP, C#
+- Languages: Python, PHP, Go
 - Tools: VSCode, VS Studio
 
 ---
