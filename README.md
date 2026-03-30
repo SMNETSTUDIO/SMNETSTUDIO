@@ -4,14 +4,14 @@
 
 ## 💻Programming
 
-- Languages: Python, PHP, Go
+- Languages: Python, PHP, Go, NodeJs, Js
 - Tools: VSCode, VS Studio
 
 ---
 
 ## 💬Contant
 
-- 📧 邮件：smnetstudio@duck.com
+- 📧 邮件: smnetstudio@duck.com
 - 📱 TG: [Join](https://t.me/smnetstudio)
 
 ---
