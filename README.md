@@ -16,7 +16,8 @@
 
 ---
 
-## Donate
+## 🎁Donate
 
 <img src="https://github.com/user-attachments/assets/69d172c1-e5c9-4256-88fd-0bcacfabab2b" width="600" />
 
+---
