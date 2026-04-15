@@ -18,6 +18,6 @@
 
 ## 🎁Donate
 
-<img src="https://github.com/user-attachments/assets/57a9bc4f-18b4-4a9d-bd19-ef3fccd21110" width="400" />
+<img src="https://github.com/user-attachments/assets/36607566-ce58-44d5-a963-1f30a8f0bfef" width="400" />
 
 ---
